@@ -7,7 +7,6 @@ import * as serviceWorker from "./serviceWorker";
 import store, { history } from "./store/configureStore";
 import App from "./App";
 
-import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import "react-toastify/dist/ReactToastify.css";
 
 const app = (
